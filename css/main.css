@@ -24,8 +24,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+.post {
+    border-bottom: 1px solid #d5d5d5;
+}
 .post h2 {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
 }
 .meta {
     font-size: 1em;
@@ -37,7 +40,6 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
