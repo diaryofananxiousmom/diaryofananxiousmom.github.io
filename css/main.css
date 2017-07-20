@@ -30,6 +30,7 @@ h1 {
 .meta {
     font-size: 1em;
     color: #999;
+    margin-top: 0;
 }
 p {
     font-size: 1.2em;
