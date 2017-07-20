@@ -2,11 +2,11 @@
 layout: default
 title: Diary of an Anxious Mom
 ---
-<h1>{{ page.title }}</h1>
+<h3>{{ page.title }}</h3>
 
 {% for post in site.posts %}
-  <h1>TEST<h2>
-  <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+
+  <h3>{{ post.title }}</h3>
   <p class="meta">{{ post.date | date_to_string }}</p>
 
   <div class="post">
