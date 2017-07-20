@@ -29,6 +29,7 @@ h1 {
 }
 .post h2 {
     margin-bottom: 0.2em;
+    color: black;
 }
 .meta {
     font-size: 1em;
